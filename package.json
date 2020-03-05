@@ -1,0 +1,17 @@
+{
+  "name": "js-testing-challenge",
+  "version": "1.0.0",
+  "description": "ChallangeTesting",
+  "main": "index.js",
+  "directories": {
+    "test": ""
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Fadhel Muhammad",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
